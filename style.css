@@ -44,6 +44,8 @@ nav ul li a{
     color:black;
     text-decoration: none;
     font-size: 20px
+    position: relative;
+    
 
 
 }
@@ -52,5 +54,8 @@ nav ul li a::after{
     width: 100%;
     height: 3px;
     background: #fff;
-    position:absolute
+    position:absolute;
+    left: 0;
+    bottom: -6px; 
+
 }
