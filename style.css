@@ -109,3 +109,58 @@ nav ul li a:hover::after{
     font-weight: 400;
     color: deeppink;
 }
+/*projects*/
+#projects{
+    padding: 80px 0;
+    color:deeppink;
+}
+.row{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.projects-col-1{
+    flex-basis: 35%;
+
+}
+.projects-col-1 img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.projects-col-2{
+    flex-basis: 60%;
+}
+.sub-title{
+    font-size: 80px;
+    font-weight: 400;
+    color: deeppink;
+}
+
+/*contact*/
+#contact{
+    padding: 80px 0;
+    color:deeppink;
+}
+.row{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.contact-col-1{
+    flex-basis: 35%;
+
+}
+.contact-col-1 img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.contact-col-2{
+    flex-basis: 60%;
+}
+.sub-title{
+    font-size: 80px;
+    font-weight: 400;
+    color: deeppink;
+}
