@@ -34,7 +34,7 @@ nav{
 }
 
 .logo{
-    width: 600px;
+    width: 800px;
 }
 
 nav ul li{
@@ -105,7 +105,7 @@ nav ul li a:hover::after{
     flex-basis: 60%;
 }
 .sub-title{
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 400;
     color: deeppink;
 }
@@ -127,9 +127,18 @@ nav ul li a:hover::after{
 .projects-col-2{
     flex-basis: 60%;
 }
- .proj-img{
+
+.proj-img1{
     width: 50%;
-    border-color: black;
+    border-color: rgb(138, 119, 58);
+    border-style: inset;
+    display: flex;
+    flex-basis: 80%;
+    margin-top: 4%;
+}
+ .proj-img{
+    width: 35%;
+    border-color: rgb(138, 119, 58);
     border-style: inset;
     display: flex;
     align-items: center;
@@ -138,6 +147,7 @@ nav ul li a:hover::after{
     margin: 4%;
     
  }
+
 
 /*contact*/
 #contact{
