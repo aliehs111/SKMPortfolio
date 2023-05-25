@@ -114,11 +114,7 @@ nav ul li a:hover::after{
     padding: 80px 0;
     color:deeppink;
 }
-.row{
-    display: flex; 
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
+
 .projects-col-1{
     flex-basis: 35%;
 
@@ -131,22 +127,25 @@ nav ul li a:hover::after{
 .projects-col-2{
     flex-basis: 60%;
 }
-.sub-title{
-    font-size: 80px;
-    font-weight: 400;
-    color: deeppink;
-}
+ .proj-img{
+    width: 50%;
+    border-color: black;
+    border-style: inset;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 4%;
+    
+ }
 
 /*contact*/
 #contact{
     padding: 80px 0;
     color:deeppink;
 }
-.row{
-    display: flex; 
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
+
+
 .contact-col-1{
     flex-basis: 35%;
 
@@ -159,8 +158,4 @@ nav ul li a:hover::after{
 .contact-col-2{
     flex-basis: 60%;
 }
-.sub-title{
-    font-size: 80px;
-    font-weight: 400;
-    color: deeppink;
-}
+
