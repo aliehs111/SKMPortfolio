@@ -15,6 +15,6 @@ First I did the HTML and CSS for the header and navigation.  Then I made the fir
 
    - I looked at other portfolio websites on the public repositories in GitHub.
 
-    - I used the web Canva to make some of the graphics, including the header background.
+   - I used the web Canva to make some of the graphics, including the header background.
 
     
