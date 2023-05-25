@@ -17,8 +17,9 @@ First I did the HTML and CSS for the header and navigation.  Then I made the fir
 
    - I used the app, Canva to produce some images and the background image
 
+![](https://github.com/aliehs111/SKMPortfolio/blob/main/assets/images/Image%205-25-23%20at%2011.51%20AM.jpg
+)
  
-
 
 
 
