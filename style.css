@@ -123,6 +123,19 @@ nav ul li a:hover::after{
     text-align: justify;
     max-width: 60%;
 }
+
+@media(max-width: 700px){
+    .about-col-1 img{
+        width: 100%;
+    }
+    .about-col-2 h1{
+        font-size: 24px;
+    }
+    .about-col-2 p{
+        max-width: 100%;
+    }
+}
+
 .sub-title{
     font-size: 60px;
     font-weight: 400;
@@ -180,6 +193,20 @@ nav ul li a:hover::after{
     border-radius: 3%;
  }
 
+ @media(max-width: 700px){
+    .projects-col-1 img{
+        width: 100%;
+    }
+    .projects-col-2 h1{
+        font-size: 24px;
+    }
+    .projects-col-2 p{
+        max-width: 100%;
+    }
+    .overlay-text{
+        width: 100%;
+    }
+ }
 
 /*contact*/
 #contact{
